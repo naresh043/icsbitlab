@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from 'react';
-import heroImage from './assets/industrial-hero.jpg.jpeg';
+import heroImage from './assets/icsass.png';
 import sidebarImage from './assets/industrial-sidebar.jpg.jpeg';
 
 
@@ -385,11 +385,11 @@ function Dashboard({ onPath, onNavigate }) {
         <div className="profile">
 
           <div className="avatar">
-            H
+            N
           </div>
 
           <div>
-            <b>Harish G</b>
+            <b>Naresh Sanjeev</b>
             <small>Security Analyst</small>
           </div>
 
@@ -2641,7 +2641,7 @@ function App() {
           <div>
 
             <strong>
-              ICS<span>Guard</span>
+              ICS<span>Ass</span>
             </strong>
 
             <small>

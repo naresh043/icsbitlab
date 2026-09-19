@@ -1,4 +1,4 @@
-# ICSGuard — Industrial Cybersecurity Platform
+# ICSAss — Industrial Cybersecurity Platform
 
 A polished React/Vite concept created for a Frontend + UX Design Challenge focused on an industrial / operational-technology cybersecurity platform.
 
